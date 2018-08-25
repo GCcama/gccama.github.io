@@ -1,0 +1,30 @@
+<div class="col-md-4">
+                                <div class="service_item">
+                                    <i class="icofont icofont-light-bulb"></i>
+                                    <h6 class="m-top-30">BRANDING</h6>
+                                    <div class="separator_small"></div>
+                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, 
+                                        sed diam nonummy nibh euismod tincidunt ut laoreet dolore 
+                                        magna aliquam erat volutpat. </p>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="service_item">
+                                    <i class="icofont icofont-imac"></i>
+                                    <h6 class="m-top-30">BRANDING</h6>
+                                    <div class="separator_small"></div>
+                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, 
+                                        sed diam nonummy nibh euismod tincidunt ut laoreet dolore 
+                                        magna aliquam erat volutpat. </p>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="service_item">
+                                    <i class="icofont icofont-video"></i>
+                                    <h6 class="m-top-30">BRANDING</h6>
+                                    <div class="separator_small"></div>
+                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, 
+                                        sed diam nonummy nibh euismod tincidunt ut laoreet dolore 
+                                        magna aliquam erat volutpat. </p>
+                                </div>
+                            </div>
